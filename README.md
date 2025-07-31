@@ -26,9 +26,3 @@ Netflix Movies & TV Shows
 - Complex judgment questions require more prompt engineering
 - Hallucination can occur when fields are not present in the dataset
 
-## ✅ Deliverables Checklist
-- [x] Cleaned data and analysis
-- [x] LLM prompts & validation file
-- [x] GitHub repository created
-- [x] Qualtrics time tracking complete
-- [x] Email submission sent
